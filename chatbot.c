@@ -38,7 +38,7 @@ int main()
      
         }
         else if(strcmp(user_input,"date")){
-            printf("Tony==>Tody\'s date .\n");
+            printf("Tony==>Today\'s date :\n");
             system(" date ");
             
         }
